@@ -1,3 +1,4 @@
+<img src="https://github.com/AnaAvellAna/AnaAvellAna/blob/main/celeste.png" alt="Banner of the summit.">
 ## Hi there 👋
 
 <!--
